@@ -25,4 +25,4 @@ public class Programa01 {
     System.out.println("Ahorro Mensual: " + ahorrom);
     System.out.println("Ahorro Anual: " + ahorroa);   
     }    
-}
+} // Versión 1
