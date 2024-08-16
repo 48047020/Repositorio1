@@ -25,6 +25,6 @@ public class Programa01 {
     System.out.println("Ahorro Mensual: " + ahorrom);
     System.out.println("Ahorro Anual: " + ahorroa);   
     }    
-} // Versión 1 (Push)
+} // Versión 2 (Push)
 // From GitHub to Apache NetBeans (Pull)
 // Jenkins Testing
